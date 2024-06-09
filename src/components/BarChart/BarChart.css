@@ -1,0 +1,16 @@
+.barchartlist {
+    width: 100%;
+    background-color: #FFFFFF;
+    border-radius: 15px;
+    height: 40vh;
+    display: flex;
+    
+}
+
+.barchartheader {
+    color: #FFFFFF;
+    size: 28px;
+   
+    font-weight: 700;
+    font-style: italic;
+}
